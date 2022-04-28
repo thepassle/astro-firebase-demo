@@ -1,0 +1,19 @@
+{
+  "hosting": {
+    "public": "functions",
+    "ignore": [
+      "index.js",
+      "package.json"
+    ],
+    "rewrites": [
+      {
+        "source": "/",
+        "function": "handler"
+      },
+      {
+        "source": "/foo",
+        "function": "handler"
+      }
+    ]
+  }
+}
