@@ -7,6 +7,7 @@
     "firebase-functions": "^3.20.1",
     "astro": "^1.0.0-beta.19",
     "@astrojs/preact": "^0.1.2",
+    "astro-firebase": "^0.0.1",
     "preact": "^10.7.1"
   }
 }

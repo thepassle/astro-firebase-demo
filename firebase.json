@@ -1,10 +1,6 @@
 {
   "hosting": {
-    "public": "functions",
-    "ignore": [
-      "index.js",
-      "package.json"
-    ],
+    "public": "functions/client",
     "rewrites": [
       {
         "source": "/",

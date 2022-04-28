@@ -1,1 +1,0 @@
-export { firebaseFunctions, firebaseFunctions as default } from './integration-functions.js';
